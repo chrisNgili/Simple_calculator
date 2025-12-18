@@ -106,11 +106,11 @@ No Output indicates successful completion
 ### 4.5 Run the Program
 macOS/Linux:
 ```bash
-./calculator
+./index
 ```
 Windows:
 ```bash
-calculator.exe
+index.exe
 ```
 ### 4.6 Verification setup
 When the program runs, you should be prompted to enter:

@@ -184,7 +184,19 @@ Input number 2: 5
 Input the desired operator (+, -, *, /): *
 Result: 50
 ```
-## 6 AI agents utilized:
+## 6. AI prompts used
+### 1. What is `cout` and how does it work in C++?
+- How it helped me: The AI helped me understand how `cout` is used to display prompts and calculation results in the terminal. So generally it's like ``print`` in Python.
+
+### 2. What is `cin` and how do I use it to get user input?
+
+- Relevance: The AI helped me correctly obtain data from the user. Making the User's input the source of data rather than hard coding values.
+
+## 7.Common issues and their fixes
+- Wront file name -- > Use correct file name
+- Invalid operator -- > Use the arithmetic operators specified only.
+
+## 8. AI agents utilized:
 - ChatGPT
 - DeepSeek
 - Mistral Le Chat
